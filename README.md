@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm <a href="https://linktr.ee/shahryarsalmaan" target="_blank">Shahryar Salmaan</a> 👋</h2>
 <h3 align="center">Welcome to my GitHub profile! 🚀</h3>
 
-<p align="center">✨ Passionate about <strong>Problem Solving</strong>, <strong>Tech-Driven Creativity</strong>, and building <strong>Practical Digital Tools</strong>.</p>
+<p align="center">✨ Passionate about <strong>Problem Solving</strong>, <strong>Tech-Driven Creativity</strong>, and learning <strong>Practical Digital Tools</strong>.</p>
 
 <p align="center">
   <a href="https://x.com/shahryarsalmaan" target="_blank"><strong>🐦 X (Twitter)</strong></a> |
@@ -12,8 +12,8 @@
 
 <p align="center">
   🌱 Currently learning: Linux, Git, Shell Scripting, and AI Automation Tools.<br>
-  💡 Fun fact: I enjoy turning DIY ideas into real-world tech solutions on a tight budget.<br>
-  💬 Open to collaborations, experiments, or just a good tech conversation!
+  💡 Fun fact: I like trying new tech and seeing what sticks.<br>
+  💬 Feel free to say hi or team up on something!
 </p>
 
 <p align="center">
