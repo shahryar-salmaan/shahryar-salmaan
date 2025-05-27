@@ -1,16 +1,21 @@
-## Hi there 👋
+<h2 align="center">Hi there, I'm <a href="https://linktr.ee/shahryarsalmaan" target="_blank">Shahryar Salmaan</a> 👋</h2>
+<h3 align="center">Welcome to my GitHub profile! 🚀</h3>
 
-<!--
-**shahryar-salmaan/shahryar-salmaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">✨ Passionate about <strong>Problem Solving</strong>, <strong>Tech-Driven Creativity</strong>, and building <strong>Practical Digital Tools</strong>.</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://x.com/shahryarsalmaan" target="_blank"><strong>🐦 X (Twitter)</strong></a> |
+  <a href="https://instagram.com/shahryar_salmaan" target="_blank"><strong>📸 Instagram</strong></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<p align="center">
+  🌱 Currently learning: Linux, Git, Shell Scripting, and AI Automation Tools.<br>
+  💡 Fun fact: I enjoy turning DIY ideas into real-world tech solutions on a tight budget.<br>
+  💬 Open to collaborations, experiments, or just a good tech conversation!
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahryar-salmaan&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Shahryar Salmaan's Top Languages">
+</p>
